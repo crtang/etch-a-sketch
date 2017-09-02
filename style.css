@@ -1,0 +1,132 @@
+{margin: 0; padding: 0;}
+
+@import url('https://fonts.googleapis.com/css?family=Boogaloo');
+
+body {
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	background: #ffffff;
+	text-align: center;
+	justify-content: center;
+}
+
+h1 {
+	font-family: 'Boogaloo', sans-serif;
+	font-weight: 200;
+}
+
+p {
+	margin: 0 auto;
+	padding-bottom: 10px;
+	width: 50%;
+	font-family: sans-serif;
+	font-weight: 200;
+	text-align: center;
+}
+
+button {
+	box-sizing: border-box;
+	outline: 0;
+	margin: 15px 5px;
+	border: 1px solid #000000;
+	border-radius: 3px;
+	padding: 10px;
+	background-color: #ffffff;
+	font-size: 16px;
+	font-weight: 200;
+}
+
+#change-size {
+	border-color: #dcb13c;
+	color: #dcb13c;
+}
+
+#change-size:hover {
+	background-color: #dcb13c;
+	color: #ffffff;
+}
+
+#clear {
+	border-color: #9d600f;
+	color: #9d600f;
+}
+
+#clear:hover {
+	background-color: #9d600f;
+	color: #ffffff;
+}
+
+#rainbow {
+	border-color: #57bda2;
+	color: #57bda2;
+}
+
+#rainbow:hover {
+	background-color: #57bda2;
+	color: #ffffff;
+}
+
+#random-color {
+	border-color: #2493a2;
+	color: #2493a2;
+}
+
+#random-color:hover {
+	background-color: #2493a2;
+	color: #ffffff;
+}
+
+#choose {
+	border-color: #304a7b;
+	color: #304a7b;
+}
+
+#choose:hover {
+	background-color: #304a7b;
+	color: #ffffff;
+}
+
+#etch-a-sketch {
+	border-color: #18284d;
+	color: #18284d;
+}
+
+#etch-a-sketch:hover {
+	background-color: #18284d;
+	color: #ffffff;
+}
+
+#contain {
+	margin: 0 auto;
+	border: 1px solid #000000;
+	padding: 0px;
+	width: 800px;
+	height: 800px;
+}
+
+.pad {
+	padding-bottom: 10px;
+}
+
+.row {
+	height: 10px;
+	line-height: 0;
+}
+
+.grid {
+	margin: 0px;
+	padding: 0;
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	background-color: #ffffff;
+}
+
+.black {
+	background-color: #000000;
+}
+
+
+
+
